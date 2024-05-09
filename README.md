@@ -34,6 +34,7 @@ The main objectives of this project are:
 - Function to get rating.
 - Function to get reviews
 - Basic information mentioned in the previous module.
+  
 ❖ CUSTOMER MODULE
 - Customer login
 - Function for showing items with fixed market price
