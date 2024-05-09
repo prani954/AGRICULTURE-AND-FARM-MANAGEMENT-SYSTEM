@@ -5,7 +5,7 @@ The Agriculture and Farm Management System aims to address the challenges faced 
 
 
 ## OBJECTIVES
-The main objectives of the of this project are:
+The main objectives of this project are:
 - To maintain proper records and manage the details of farmers,plants,soil type and its suitable climatic conditions.
 
 - The degree and depth of the details would be provided based on the user’s expertise in the agriculture sector. 
