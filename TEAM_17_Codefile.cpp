@@ -22,7 +22,7 @@ using namespace std;
 
 char HOST[] = "localhost";
 char USER[] = "root";
-char PASS[] = "3sandhya@203sha@123";
+char PASS[] = "your password";
 //enter the password that you have given for mysql connection
 // Global variables 
 
